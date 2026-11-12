@@ -1,0 +1,7 @@
+Test code goes here
+
+Test Scenario: Login Functionality
+
+Test Case 1: Verify valid login
+Test Case 2: Verify invalid login
+Test Case 3: Verify logout functionality
